@@ -15,7 +15,7 @@ body {
     justify-content: center;
     text-align: center;
     overflow: hidden;
-    background-color: #686de0;
+    background-color: #f73c5b;
     padding: 20px;
 }
 
@@ -45,7 +45,7 @@ body {
 }
 
 .btn {
-    background-color: #9f68e0;
+    background-color: #d40700;
     border: 0;
     border-radius: 10px;
     color: #fff;
